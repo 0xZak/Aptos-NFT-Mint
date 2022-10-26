@@ -27,7 +27,6 @@ _PUBLIC_MINT_TIME = int(config['collection']['publicMintTime'])
 _COLLECTION_NAME = config['collection']['collectionName']
 _WL_DIR = config['collection']['whitelistDir']
 _STORAGE_SOLUTION = config["storage"]["solution"]
-_ARWEAVE_WALLET_PATH = config["storage"]["arweave"]["keyfilePath"]
 _API_ENDPOINT = config["storage"]['pinata']['pinataApi']
 _API_KEY = config["storage"]['pinata']['pinataPublicKey']
 _API_SECRETE_KEY = config["storage"]['pinata']['pinataSecretKey']

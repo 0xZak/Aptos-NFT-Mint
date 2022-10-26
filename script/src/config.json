@@ -3,30 +3,27 @@
         "solution": "pinata",
         "pinata": {
             "pinataApi": "https://api.pinata.cloud/pinning/pinFileToIPFS",
-            "pinataPublicKey": "4b667c45c40242b041da",
-            "pinataSecretKey": "aceba97fe40b499a253b1dc1d61d2cab6d1a44e74d977ac87f7614fa3a1c837b"
-        },
-        "arweave": {
-            "keyfilePath": "/Users/Shared/arweave-keyfile.json"
+            "pinataPublicKey": "a5d487942b8d84b1a143",
+            "pinataSecretKey": "66872f029472651d448e04f1f6096726ee3721e7e11136a8907c163b5834693b"
         }
     },
     "candymachine": {
-        "cmPublicKey": "0x3b3a0901cfc91b289cd16b62b28fd850e52a2921d463945a3722c33a81bad453",
-        "cmPrivateKey": "0x80fd0f609fe180f44db7c3dde7704daf53a621e602a86bf461ac2cfe0b28370a"
+        "cmPublicKey": "0x9f711562f17ff6fb4f8701267d3c5a915c1a772d3a040a5806e8a258d905aee8",
+        "cmPrivateKey": "0x9470eaa4e0d6c90bcae82f12b53c7f0c51bc9764e3e4bce82d109b6cd8b7ec96"
     },
     "collection": {
-        "assetDir": "/Users/Shared/assets/images",
-        "metadataDir": "/Users/Shared/assets/metadata",
-        "collectionName": "TestCollection101",
-        "collectionDescription": "placeholder",
-        "collectionCover": "",
+        "assetDir": "/mnt/c/Users/PC/Desktop/aptos2/AptosNFTMint/script/src/doodles-official",
+        "metadataDir": "/mnt/c/Users/PC/Desktop/aptos2/AptosNFTMint/script/src/metadata",
+        "collectionName": "Aptos Doodles",
+        "collectionDescription": "Your fav Aptos Doodles.",
+        "collectionCover": "https://cloudflare-ipfs.com/ipfs/QmbbcauwDT3CJq6Mj9KLgse6M9Q28bBPgbH4AQ1xeEGYHJ",
         "collectionSize": 10,
-        "maxMintPerWallet": 3,
-        "mintFee": 10,
+        "maxMintPerWallet": 1,
+        "mintFee": 10000000,
         "royalty_points_denominator": 1000,
         "royalty_points_numerator": 100,
-        "presaleMintTime": 100000000,
-        "publicMintTime": 100000000,
-        "whitelistDir": "/Users/Shared/assets"
+        "presaleMintTime": 0,
+        "publicMintTime": 1666782000,
+        "whitelistDir": "/mnt/c/Users/PC/Desktop/aptos2/AptosNFTMint/script/src"
     }
 }
